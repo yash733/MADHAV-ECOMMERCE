@@ -2,7 +2,7 @@
 Owner of MADHAV ECOMMERCE STORE wants me to help him create a dashboard to track and analyze their online sales accross India
 
 #SOLUTION
-![Capture21](https://github.com/yash733/MADHAV-ECOMMERCE/assets/100533686/64b5eac1-bce8-489b-894c-8458d77216df)
+![image](https://github.com/yash733/MADHAV-ECOMMERCE/assets/100533686/74588390-3695-4d1d-b67e-5c68501dc1a5)
 
 - Created interactive dashboard to track and analyze online sales data.
 - Used Complex parameters to drill down in worksheet and customization using filters and slicers.
