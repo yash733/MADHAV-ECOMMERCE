@@ -8,3 +8,5 @@ Owner of MADHAV ECOMMERCE STORE wants me to help him create a dashboard to track
 - Used Complex parameters to drill down in worksheet and customization using filters and slicers.
 - Created connections, join new table, calculations to manipulate data and eneable user driven paramenters for visualizations.
 - Used different types of customized visualization (bar chart, line chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+
+https://www.linkedin.com/in/yash-gupta09
